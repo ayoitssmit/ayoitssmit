@@ -83,35 +83,6 @@ My work spans end-to-end development — from designing robust frontends and bac
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayoitssmit&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayoitssmit&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ayoitssmit&theme=tokyonight)
-
-</div>
-
----
-
-## 📌 Featured Projects
-👉 Check out my pinned repositories below for:
-- Full-stack applications
-- AI / ML projects
-- Automation and backend systems
-
-Each project includes detailed READMEs and implementation insights.
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayoitssmit&style=flat&color=blue)
