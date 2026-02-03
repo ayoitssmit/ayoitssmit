@@ -86,8 +86,8 @@ My work spans end-to-end development — from designing robust frontends and bac
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoitssmit&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoitssmit&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -96,7 +96,7 @@ My work spans end-to-end development — from designing robust frontends and bac
 ## 🔥 Contribution Streak
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ayoitssmit&theme=tokyonight)
 
 </div>
 
