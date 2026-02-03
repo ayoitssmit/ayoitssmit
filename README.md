@@ -1,21 +1,19 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=console.log(%22Hello%2C+World!%22);Debugging+Reality+Since+2025;Full+Stack+Developer+%7C+AI+in+Progress)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=console.log(%22Hello%2C+World!%22);Debugging+Reality)
 
 </div>
 
-
 ---
 
-## 👋 Hi, I'm Smit Shah  
-### Full Stack Developer & Aspiring AI/ML Engineer
+## 👋 Hello There, I'm Smit Shah a Full Stack Developer & Aspiring AI/ML Engineer
 
-I’m a full-stack developer with a strong interest in Artificial Intelligence and Machine Learning, focused on building scalable, production-ready web applications and enhancing them with intelligent systems.  
-My work spans end-to-end development — from crafting robust frontends and backends to integrating ML models, automation pipelines, and data-driven workflows into real-world products.
+I’m a full-stack developer with a strong interest in Artificial Intelligence and Machine Learning, focused on building scalable web applications and integrating intelligent systems into real-world products.  
+My work spans end-to-end development — from designing robust frontends and backends to embedding ML models, automations, and data-driven workflows into web platforms.
 
-- 🧩 Building **AI-enabled full-stack applications**
-- 📘 Learning **Machine Learning, Deep Learning, LLMs, and intelligent automation**
-- ⚙️ Passionate about **clean architecture, scalability, and elegant solutions**
+- 🧩 Currently building **full-stack applications enhanced with AI/ML and automation**
+- 📘 Actively learning **Machine Learning, Deep Learning, LLMs, and intelligent automation**
+- ⚙️ Passionate about turning complex ideas into **clean, efficient, production-ready systems**
 
 ---
 
@@ -80,16 +78,16 @@ My work spans end-to-end development — from crafting robust frontends and back
 ## 🚀 What I'm Building
 - AI-powered full-stack web applications
 - ML model integrations for real-world use cases
-- Backend automation and intelligent workflows
-- Scalable systems with performance and maintainability in mind
+- Backend automation pipelines and intelligent workflows
+- Scalable systems with clean architecture and performance focus
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoitssmit&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoitssmit&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayoitssmit&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayoitssmit&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -105,12 +103,12 @@ My work spans end-to-end development — from crafting robust frontends and back
 ---
 
 ## 📌 Featured Projects
-Explore my pinned repositories below for:
+👉 Check out my pinned repositories below for:
 - Full-stack applications
 - AI / ML projects
 - Automation and backend systems
 
-Each project includes detailed READMEs explaining design decisions and implementation details.
+Each project includes detailed READMEs and implementation insights.
 
 ---
 
