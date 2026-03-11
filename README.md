@@ -6,20 +6,20 @@
 
 ---
 
-## 👋 Hello There, I'm Smit Shah a Full Stack Developer & Aspiring AI/ML Engineer
+## Hello There, I'm Smit Shah a Full Stack Developer & Aspiring AI/ML Engineer
 
 I’m a full-stack developer with a strong interest in Artificial Intelligence and Machine Learning, focused on building scalable web applications and integrating intelligent systems into real-world products.  
 My work spans end-to-end development — from designing robust frontends and backends to embedding ML models, automations, and data-driven workflows into web platforms.
 
-- 🧩 Currently building **full-stack applications enhanced with AI/ML and automation**
-- 📘 Actively learning **Machine Learning, Deep Learning, LLMs, and intelligent automation**
-- ⚙️ Passionate about turning complex ideas into **clean, efficient, production-ready systems**
+- Currently building **full-stack applications enhanced with AI/ML and automation**
+- Actively learning **Machine Learning, Deep Learning, LLMs, and intelligent automation**
+- Passionate about turning complex ideas into **clean, efficient, production-ready systems**
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### Languages
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -35,7 +35,7 @@ My work spans end-to-end development — from designing robust frontends and bac
 
 ---
 
-### 🌐 Web & Backend
+### Web & Backend
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -48,7 +48,7 @@ My work spans end-to-end development — from designing robust frontends and bac
 
 ---
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 <div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -61,7 +61,7 @@ My work spans end-to-end development — from designing robust frontends and bac
 
 ---
 
-### ⚙️ Databases, Cloud & Tools
+### Databases, Cloud & Tools
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -76,7 +76,7 @@ My work spans end-to-end development — from designing robust frontends and bac
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 - AI-powered full-stack web applications
 - ML model integrations for real-world use cases
 - Backend automation pipelines and intelligent workflows
