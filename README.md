@@ -17,7 +17,7 @@ My work spans end-to-end development — from designing robust frontends and bac
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 <div align="center">
